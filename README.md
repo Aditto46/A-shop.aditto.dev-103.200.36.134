@@ -1,1 +1,1 @@
-# A-shop.aditto.dev-103.200.36.134
+# A-shop.aditto.dev
